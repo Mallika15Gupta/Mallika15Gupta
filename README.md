@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **An engineering student who wants to do so much apart from engineering!!**
 
+![computer](https://user-images.githubusercontent.com/63893321/130686524-8d69f41d-ae08-4da0-9b88-e61c0b082089.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mylittlespace15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mylittlespace15" height="30" width="40" /></a>
@@ -28,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mallika15gupta&" alt="mallika15gupta" /></p>
 
-![computer](https://user-images.githubusercontent.com/63893321/130686524-8d69f41d-ae08-4da0-9b88-e61c0b082089.gif)
+
