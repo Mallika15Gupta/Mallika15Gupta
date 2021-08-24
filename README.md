@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mallika15gupta&" alt="mallika15gupta" /></p>
 
-
+![computer](https://user-images.githubusercontent.com/63893321/130686524-8d69f41d-ae08-4da0-9b88-e61c0b082089.gif)
